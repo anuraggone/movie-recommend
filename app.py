@@ -161,7 +161,7 @@ Feel free to check out more of my projects on GitHub, and follow me on Instagram
 I’m also on LinkedIn — let’s connect!    
              [GitHub](https://github.com/anuraggone)  
              [Instagram](https://www.instagram.com/chillinghead/profilecard/?igsh=MXJ0bDJ3djlzZ2NrMQ==)  
-             [Instagram](https://www.linkedin.com/in/anuragupadhyay15?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+             [LinkedIn](https://www.linkedin.com/in/anuragupadhyay15?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
     ''')
  
     
