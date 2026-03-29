@@ -78,7 +78,7 @@ st.markdown(
 
 #function for fetching poster
 def fetch_posters(movie_id):
-    X = requests.get('https://api.themoviedb.org/3/movie/{}?api_key=9880d08c155680a8b763c3bf2dd33c81&language=en-US'.format(movie_id))
+    X = requests.get('https://api.themoviedb.org/3/movie/{}?api_key=[useyourwown]&language=en-US'.format(movie_id))
     print(X)
     data = X.json()
     print(data)
